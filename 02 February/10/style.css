@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+* _{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 1.5rem "Nunito", sans-serif;
+    min-height: 100vh;   
+}
+
+/* SYNTAX
+@media media type and (condition: breakpoint){
+    //CSS Rules
+} */
+
+@media screen and (min-width: 481px){
+    
+}
