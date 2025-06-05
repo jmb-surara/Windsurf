@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 5px solid;
+    height: 95vh;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    font-size: 4em;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+#box1{
+    background-color: seagreen;
+}
+
+#box2{
+    background-color: skyblue;
+}
+
+#box3{
+    background-color: steelblue;
+}
+
+#box4{
+    background-color: tan;
+}

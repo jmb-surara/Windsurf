@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    font-family: Helvetica;
+}
+
+body{
+    margin: 0;
+}
+
+main{
+    margin: 20px;
+}
+
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
+}
+
+.navbar a{
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    display: block;
+    font-family: Helvetica;
+}
+
+.navbar a:hover{
+    background-color: #555;
+    color: white;
+}
+
+.navbar li{
+    display: inline-block;
+    text-align: center;
+}
